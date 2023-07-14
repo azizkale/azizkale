@@ -52,5 +52,6 @@
         alt="javascript"
         width="105"
         height="20"
+        style="boder-radius:5px"
       />
     </p>
