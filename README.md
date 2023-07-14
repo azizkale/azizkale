@@ -1,3 +1,5 @@
+### Hi 👋, I'm Aziz ![](https://visitor-badge.laobi.icu/badge?page_id=azizkale.readme)
+
 #
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azizkale) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@azizkale) 
@@ -45,4 +47,5 @@
     alt="Docker"
     src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
   />
+     <img src="https://nodejs-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge"/>
 </p>
