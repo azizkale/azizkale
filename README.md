@@ -10,12 +10,14 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white) 
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?logo=reactivex&logoColor=white) 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white) 
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?logo=angularjs&logoColor=white) 
+
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?logo=c-sharp&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white) 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white) 
-![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?logo=angularjs&logoColor=white) 
-![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?logo=apollo-graphql) 
+
+
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB) 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white) 
 #
@@ -24,6 +26,7 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white) 
 #
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white) 
+![RESTfull](https://visitor-badge.laobi.icu/badge?page_id=7alip.readme)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?logo=firebase) 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?logo=heroku&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens) 
