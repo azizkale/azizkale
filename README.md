@@ -1,6 +1,7 @@
 ### Hi 👋, I'm Aziz ![](https://visitor-badge.laobi.icu/badge?page_id=azizkale.readme)
 
 #
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/azizkale) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@azizkale) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13475031) 
@@ -42,10 +43,14 @@
 ![](https://github-readme-stats.vercel.app/api?username=azizkale&theme=flat&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=azizkale&theme=flat&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p>
-  <img
-    alt="Docker"
-    src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"
-  />
-     <img src="https://nodejs-badge.laobi.icu/badge?page_id=page.id" alt="visitor badge"/>
-</p>
+
+![Static Badge](https://img.shields.io/badge/:badgeContent)
+
+ <p>
+      <img
+        src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
+        alt="javascript"
+        width="105"
+        height="20"
+      />
+    </p>
