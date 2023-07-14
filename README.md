@@ -22,11 +22,9 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white) 
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?logo=firebase) 
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?logo=heroku&logoColor=white) 
 ![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens) 
 ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?logo=unity&logoColor=white) 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101) 
-![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white) 
