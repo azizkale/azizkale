@@ -27,7 +27,7 @@
 ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?logo=unity&logoColor=white) 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101) 
 ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?logo=microsoft%20sql%20server&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white) 
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?logo=jira&logoColor=white) 
