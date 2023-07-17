@@ -9,10 +9,7 @@
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?logo=reactivex&logoColor=white) 
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?logo=angular&logoColor=white) 
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?logo=angularjs&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?logo=jquery&logoColor=white) 
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB) 
