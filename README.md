@@ -19,7 +19,7 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white) 
 
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?logo=firebase) 
-![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens) 
+<!-- ![JWT](https://img.shields.io/badge/JWT-black?logo=JSON%20web%20tokens) -->
 ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?logo=unity&logoColor=white) 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
